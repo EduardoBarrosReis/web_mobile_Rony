@@ -1,0 +1,16 @@
+{
+  "name": "web_mobile_rony",
+  "version": "1.0.0",
+  "description": "Exercicios da Matéria Programação WEB e Mobile - Professor Rony - Fatec",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
